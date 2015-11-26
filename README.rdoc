@@ -1,4 +1,6 @@
 == README - updated Pierre Le Count
+            Dates: 26/11/2015
+                   27/11/2015
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
