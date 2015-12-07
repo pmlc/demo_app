@@ -1,3 +1,3 @@
-class User < ActiveRecord::Base
+class Comment < ActiveRecord::Base
   belongs_to :article
 end
